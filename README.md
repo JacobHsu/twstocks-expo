@@ -63,3 +63,8 @@ yarn start
    ```bash
    npx expo start -c
    ```
+
+
+## References
+
+docs.expo.dev [publishing-websites](https://docs.expo.dev/guides/publishing-websites/)
