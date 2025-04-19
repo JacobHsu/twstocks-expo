@@ -65,12 +65,31 @@ yarn start
    ```
 
 
-## docs.expo.dev/develop/tools/  
+## EAS Build 
 
 [Expo Doctor](https://docs.expo.dev/develop/tools/)
 
 `npx expo-doctor`  
 `npx expo install --check`  
+
+[Updates to EAS Update](https://docs.expo.dev/eas-update/migrate-from-classic-updates/)
+`npm install --global eas-cli`  
+`eas login`  
+`eas init`  
+
+[expo.dev](https://expo.dev/)  Dashboard
+
+`eas build:configure` eas.json  
+`npx expo export --platform web`  dist  
+`eas deploy --prod`  
+https://jacobhsu-twstocks.expo.app  
+
+docs [Build configuration process](https://docs.expo.dev/build-reference/build-configuration/)  
+
+`eas build -s` iOS
+`eas build -p android`
+
+youtube [Build an app and deploy it with Bolt.new and Expo](https://www.youtube.com/watch?v=iCwxkm2PkQE)
 
 ## References
 
