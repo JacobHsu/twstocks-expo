@@ -63,5 +63,3 @@ yarn start
    ```bash
    npx expo start -c
    ```
-
-## 專案結構
