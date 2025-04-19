@@ -65,6 +65,13 @@ yarn start
    ```
 
 
+## docs.expo.dev/develop/tools/  
+
+[Expo Doctor](https://docs.expo.dev/develop/tools/)
+
+`npx expo-doctor`  
+`npx expo install --check`  
+
 ## References
 
 docs.expo.dev [publishing-websites](https://docs.expo.dev/guides/publishing-websites/)
