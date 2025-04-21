@@ -93,4 +93,5 @@ youtube [Build an app and deploy it with Bolt.new and Expo](https://www.youtube.
 
 ## References
 
-docs.expo.dev [publishing-websites](https://docs.expo.dev/guides/publishing-websites/)
+docs.expo.dev [publishing-websites](https://docs.expo.dev/guides/publishing-websites/)  
+[privacypolicies.com](https://app.privacypolicies.com/)  
